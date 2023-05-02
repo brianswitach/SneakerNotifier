@@ -1,0 +1,1 @@
+This application is called "Sneaker Notifier" and it is responsible for checking the most well-known sneaker sales websites in Argentina and sending you a message when a new product is added. In this case, the application informs you when a new product of the "Dunk" model from the Nike brand is added.
